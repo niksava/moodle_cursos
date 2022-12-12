@@ -12,8 +12,11 @@
 Dins de Moodle hi ha diferents tipus d'usuaris:
 
 1. Quins tipus d'usuaris (rols diferents) existeixen a Moodle?
-2. Quins rols poden assignar cada tipus d'usuaris?
-3. Crea tres usuaris:
+
+Gestor, creador de curso, profesor, preofesor sense permis de edicio, estudiant, invitat, usuari identificat i usuari identificat en la pagina principal.
+
+3. Quins rols poden assignar cada tipus d'usuaris?
+4. Crea tres usuaris:
 
  · Un Professor anomenat Cognom_1_profe.
  
